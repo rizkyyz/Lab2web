@@ -34,7 +34,7 @@
         <div id="intro">
             <h1>Hello World</h1>
             <!--Menambahkan Inline Css Pada Paragraf-->
-            <p style="text-align: center; color:#ccd8e4">kami sedang belajar HTML dan CSS Dasar, pada matakuliah <b>Pemrograman
+            <p>kami sedang belajar HTML dan CSS Dasar, pada matakuliah <b>Pemrograman
              web</b> di <i>Universitas Pelita bangsa.</i> pelajaran pertama yang kami dapat 
              adalah membuat tampilan web sederhana tampilan sederhana dalam rangka mengenai tag - tag dasar HTML 
              dan CSS</p>
@@ -51,7 +51,8 @@
 ## 2. Mendeklarasikan CSS Internal
 * kemudian tambahkan deklarasi CSS Internal di dalam html seperti berikut pada bagian head.
 <!-- Ini adalah paragraf pertama -->
-```<head> 
+```
+<head> 
         <style>
             body {
                  font-family: 'Open Sans', sans-serif;
