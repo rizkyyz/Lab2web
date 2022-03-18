@@ -1,4 +1,4 @@
-# Tugas LAB 1 Web
+# Tugas LAB 2 Web
 ## Profil
 | # | Biodata |
 | -------- | --- |
